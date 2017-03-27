@@ -1,8 +1,8 @@
-# Radar-
+# Radar-31271447
 
-Scrubbing to the very beginning of a live event stream seeks a not longer seekable position
+AVPlayerViewController: Scrubbing to the very beginning of a live event stream seeks a not longer seekable position
 
-· Open radar: https://openradar.appspot.com/
+· Open radar: https://openradar.appspot.com/31271447
 
 # Description
 When scrubbing to the very beginning of a live event stream, AVPlayerViewController tries to seek a non seekable position.
